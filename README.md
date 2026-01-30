@@ -11,7 +11,7 @@ Robotics & Computer Vision engineer who likes making machines see and move intel
 
 ## Currently
 
-- Building with **ROS2**, **Isaac Sim**, **STM32**
+- Building with **ROS2**, **RT-DETRs**, **STM32N6**
 - Getting deeper into **lightweight inference deployment** and embedded systems.
 - Co-organizing [AI Tinkerers Munich](https://munich.aitinkerers.org/) (not very active 😅 hoping to change that soon
 
