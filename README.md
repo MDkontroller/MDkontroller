@@ -19,7 +19,7 @@ Robotics & Computer Vision engineer who likes making machines see and move intel
 
 - Published research on deep learning for weather classification using LiDAR
 - Former student researcher @ Fraunhofer IVI
-- Hackathons everywhere and on many topics: from London to Munich, from Healthcare to Robotics. Always waiting for the chance  :)
+- Hackathons everywhere and on many topics: from Munich to SF, from Healthcare to Robotics. Always waiting for the chance  :)
   
 ## Stack
 
